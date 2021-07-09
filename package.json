@@ -1,0 +1,33 @@
+{
+  "name": "revivatask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TaxCalculator.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jest": "^27.0.6",
+    "json": "^11.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.14.5",
+    "@babel/core": "^7.14.6",
+    "@babel/node": "^7.14.7",
+    "@babel/preset-env": "^7.14.7"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopra/RevivaTask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leopra/RevivaTask/issues"
+  },
+  "homepage": "https://github.com/leopra/RevivaTask#readme"
+}

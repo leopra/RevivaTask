@@ -1,0 +1,62 @@
+[
+  {
+    "order": 1,
+    "basket": [
+      {
+        "name": "book",
+        "n": 2,
+        "price": 12.49
+      },
+      {
+        "name": "music CD",
+        "n": 1,
+        "price": 14.99
+      },
+      {
+        "name": "chocolate bar",
+        "n": 1,
+        "price": 0.85
+      }
+    ]
+  },
+  {
+    "order": 2,
+    "basket": [
+      {
+        "name": "imported box of chocolates",
+        "n": 1,
+        "price": 10.00
+      },
+      {
+        "name": "imported bottle of perfume",
+        "n": 1,
+        "price": 47.50
+      }
+    ]
+  },
+  {
+    "order": 3,
+    "basket": [
+      {
+        "name": "imported bottle of perfume",
+        "n": 1,
+        "price": 27.99
+      },
+      {
+        "name": "bottle of perfume",
+        "n": 1,
+        "price": 18.99
+      },
+      {
+        "name": "packet of headache pills",
+        "n": 1,
+        "price": 9.75
+      },
+      {
+        "name": "box of imported chocolates",
+        "n": 3,
+        "price": 11.25
+      }
+    ]
+  }
+]
