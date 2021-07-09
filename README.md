@@ -18,12 +18,12 @@ paid. The rounding rules for sales tax are that for a tax rate of n%.
 Install node modules:
 ```
 npm i 
-}
+
 ```
 To test:
 ```
 npm run test
-}
+
 ```
 To see printed Receipt output:
 ```
